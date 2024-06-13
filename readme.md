@@ -1,9 +1,9 @@
 ## Attack and Defense 
-
-Prectice some  ctf-like topics
+中央大學 電腦攻擊與防禦課程
+Practice some  ctf-like topics
 ## Project 1 (PWN)
 
-This project include：
+This project includes：
 
 1. nine topics (we solved eight topics)
 2. readme (our solution)
@@ -12,7 +12,7 @@ This project include：
 
 ## Project 2 (WEB)
 
-This project include：
+This project includes：
 
 1. six topics (we solved all of them)
 2. readme (our solution)
